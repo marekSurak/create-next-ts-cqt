@@ -1,3 +1,3 @@
 module.exports = {
-  ...require("@strv/prettier-config"),
-};
+  ...require('@strv/prettier-config'),
+}
