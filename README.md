@@ -14,6 +14,10 @@ Project template using [`create-next-app`](https://github.com/vercel/next.js/tre
 - [lint-staged](https://github.com/okonet/lint-staged)
 - [husky](https://typicode.github.io/husky/#/)
 
+## Github CI/CD
+
+- prepared job running linters and type checking on `push/pull request`
+
 ## Additional configuration files
 
 - [.browserlistrc](https://create-react-app.dev/docs/supported-browsers-features/)
